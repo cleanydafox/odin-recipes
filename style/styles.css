@@ -1,0 +1,15 @@
+
+.header {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+}
+
+.lists {
+    color: vioet;
+    border: solid;
+    border-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
